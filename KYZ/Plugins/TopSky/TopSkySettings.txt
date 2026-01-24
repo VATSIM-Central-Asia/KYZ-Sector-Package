@@ -27,13 +27,12 @@ Vector_QDM_Font=EuroScope
 
 Setup_COOPANS=1
 
-
-Airspace_P_Flag=UCFM
+Airspace_P_Flag=UCFM,UCFO
 Airspace_ASSR_Type=0
 Airspace_ModeS_Code_VFR=0
 Airspace_ModeS_Code=1000
 Airspace_No_DUPE_Codes=7000
-Airspace_SIGMET_Areas=UCFM
+Airspace_SIGMET_Areas=UCFM,UCFO
 Airspace_NOTAM_Add=UCFM,UCFO
 
 AIW=0
@@ -213,12 +212,12 @@ WXR_Gain=100
 WXR_Echo_dBZ_Hi=50
 WXR_Echo_dBZ_Med=30
 WXR_Echo_dBZ_Lo=20
-WXR_Latitude=53,5
-WXR_Latitude_Max=87
-WXR_Latitude_Min=45
-WXR_Longitude=137,1
-WXR_Longitude_Max=180
-WXR_Longitude_Min=78
+WXR_Latitude=41,2
+WXR_Latitude_Max=44
+WXR_Latitude_Min=39
+WXR_Longitude=74,5
+WXR_Longitude_Max=80.4
+WXR_Longitude_Min=70
 WXR_ImageSize=512
 
 [UCFM_CTR]
@@ -237,6 +236,14 @@ CPDLC_Default=0
 Setup_LoadView=UCFL_TWR
 CPDLC_Default=0
 
-[UCFP_TWR]
+[UCFK_TWR]
 Setup_LoadView=UCFP_TWR
+CPDLC_Default=0
+
+[UCFO_CTR]
+Setup_LoadView=UCFO_CTR
+CPDLC_Default=0
+
+[UCFO_APP]
+Setup_LoadView=UCFO_APP
 CPDLC_Default=0
