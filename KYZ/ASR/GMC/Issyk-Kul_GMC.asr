@@ -3,21 +3,6 @@ DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
-Free Text:UCFL Ground Freetext\1:freetext
-Free Text:UCFL Ground Freetext\2:freetext
-Free Text:UCFL Ground Freetext\3:freetext
-Free Text:UCFL Ground Freetext\4:freetext
-Free Text:UCFL Ground Freetext\5:freetext
-Free Text:UCFL Ground Freetext\6:freetext
-Free Text:UCFL Ground Freetext\7:freetext
-Free Text:UCFL Ground Freetext\M1:freetext
-Free Text:UCFL Ground Freetext\M2:freetext
-Free Text:UCFL Ground Freetext\TWY A:freetext
-Free Text:UCFL Ground Freetext\TWY A:freetext
-Free Text:UCFL Ground Freetext\TWY B:freetext
-Free Text:UCFL Ground Freetext\TWY B:freetext
-Geo:UCFL Groundlayout:
-Regions:UCFL Ground Polygons:polygon
 SHOWC:1
 SHOWSB:0
 BELOW:0
