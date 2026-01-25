@@ -3,25 +3,6 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
-Free Text:UCFO Ground Freetext\1:freetext
-Free Text:UCFO Ground Freetext\10:freetext
-Free Text:UCFO Ground Freetext\11:freetext
-Free Text:UCFO Ground Freetext\12:freetext
-Free Text:UCFO Ground Freetext\2:freetext
-Free Text:UCFO Ground Freetext\3:freetext
-Free Text:UCFO Ground Freetext\4:freetext
-Free Text:UCFO Ground Freetext\5:freetext
-Free Text:UCFO Ground Freetext\6:freetext
-Free Text:UCFO Ground Freetext\7:freetext
-Free Text:UCFO Ground Freetext\8:freetext
-Free Text:UCFO Ground Freetext\9:freetext
-Free Text:UCFO Ground Freetext\A:freetext
-Free Text:UCFO Ground Freetext\B:freetext
-Free Text:UCFO Ground Freetext\C:freetext
-Free Text:UCFO Ground Freetext\M1:freetext
-Free Text:UCFO Ground Freetext\M2:freetext
-Geo:UCFO Groundlayout:
-Regions:UCFO Ground Polygons:polygon
 SHOWC:1
 SHOWSB:0
 BELOW:0
