@@ -13,20 +13,20 @@ Airports:UCFR:symbol
 Airports:UCFT:symbol
 Airports:UCFV:symbol
 Airports:UCFZ:symbol
-ARTCC boundary:UCFM_CTR:
-ARTCC boundary:UCFO_CTR:
-ARTCC high boundary:UCFM_APP:
-ARTCC high boundary:UCFO_APP:
-ARTCC low boundary:UCFB_TWR:
-ARTCC low boundary:UCFD_TWR:
-ARTCC low boundary:UCFK_TWR:
-ARTCC low boundary:UCFL_TWR:
-ARTCC low boundary:UCFM_R_APP:
-ARTCC low boundary:UCFM_TWR:
-ARTCC low boundary:UCFR_TWR:
-ARTCC low boundary:UCFT_TWR:
-ARTCC low boundary:UCFV_TWR:
-ARTCC low boundary:UCFZ_TWR:
+ARTCC boundary:UCFM ACC:
+ARTCC boundary:UCFO ACC:
+ARTCC high boundary:UCFM TMA:
+ARTCC high boundary:UCFO TMA:
+ARTCC low boundary:UCFB TMA:
+ARTCC low boundary:UCFD TMA:
+ARTCC low boundary:UCFK TMA:
+ARTCC low boundary:UCFL TMA:
+ARTCC low boundary:UCFL CTR:
+ARTCC low boundary:UCFM CTR:
+ARTCC low boundary:UCFR TMA:
+ARTCC low boundary:UCFT TMA:
+ARTCC low boundary:UCFV TMA:
+ARTCC low boundary:UCFZ TMA:
 Runways:UCFB 14-32:extended centerline 1
 Runways:UCFB 14-32:extended centerline 1 left base
 Runways:UCFB 14-32:extended centerline 1 left ticks
