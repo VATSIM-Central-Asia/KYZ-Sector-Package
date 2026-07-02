@@ -26,7 +26,7 @@ Settings	SettingsfileDEP	\KYZ\Settings\KYZ_Lists.txt
 Settings	SettingsfileARR	\KYZ\Settings\KYZ_Lists.txt
 Settings	SettingsfileSYMBOLOGY	\KYZ\Settings\KYZ_Settings.txt
 Settings	SettingsfileVOICE	\KYZ\Settings\VoiceChannels.txt
-Settings	SettingsfilePROFILE	\KYZ\Settings\KYZ_Settings.txt
+Settings	SettingsfilePROFILE	\KYZ\Settings\KYZ_Profiles.txt
 Settings	SettingsfileTAGS	\KYZ\Settings\KYZ_TAGs.txt
 Settings	SettingsfilePLUGINS	\KYZ\Settings\KYZ_Plugins.txt
 Settings	Settingsfile	\KYZ\Settings\KYZ_Settings.txt
